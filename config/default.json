@@ -1,0 +1,10 @@
+
+{
+    "app": {
+        "port": "4010",
+        "main_url" : "http://localhost"
+    },
+    "path":{
+        "filepath" : "/var/www/html/imdb/uploads/"        
+    }
+}
